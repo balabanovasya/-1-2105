@@ -19,6 +19,7 @@
 
 ### 3. Текст программы
 
+```c++
 #include<iostream>
 using namespace std;
 int main()
@@ -42,6 +43,7 @@ int main()
 	system("pause");    
 	return(0);
 }
+```
 
 ### 4. Описание работы программы
 
